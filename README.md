@@ -36,3 +36,6 @@ list.appendChild(item);
 // 每次塞入都會為第一筆置頂
 list.insertBefore(item,list.childNodes[0]);
 ```
+
+
+inspired by: https://www.youtube.com/watch?v=2wCpkOk2uCg
